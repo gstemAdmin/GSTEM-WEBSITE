@@ -1,0 +1,1 @@
+const natn = 0;
